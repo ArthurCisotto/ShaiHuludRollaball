@@ -28,7 +28,7 @@ Controle o Shai Hulud com os comandos W, A, S, D para navegar pelo deserto e cli
 - **Assets:**
   - [Texturas de areia](https://assetstore.unity.com/packages/2d/textures-materials/floors/yughues-free-sand-materials-12964)
   - [Skybox](https://assetstore.unity.com/packages/2d/textures-materials/sky/free-stylized-hand-painted-skybox-265475)
-  - [Modelo e animação do inimigo](www.mixamo.com/)
+  - [Modelo e animação do inimigo](www.mixamo.com)
   - [Fonte utilizada](https://www.dafont.com/dune-rise.font)
   
 - **Músicas:**
